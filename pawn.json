@@ -1,0 +1,12 @@
+{
+	"user": "PhantomDave",
+	"repo": "PhantomGames",
+	"entry": "base.pwn",
+	"output": "base.amx",
+	"dependencies": [
+		"sampctl/samp-stdlib"
+	],
+	"runtime": {
+		"mode": "y_testing"
+	}
+}
